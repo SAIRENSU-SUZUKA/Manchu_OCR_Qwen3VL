@@ -1,4 +1,4 @@
-# Manchu OCR
+# Manchu OCR with Qwen3VL
 
 
 
